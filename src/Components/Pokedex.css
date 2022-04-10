@@ -1,0 +1,13 @@
+.pokedex{
+  
+}
+.pokedex-cards{
+    display: flex;
+    justify-content: center;
+}
+.winner{
+    color: green;
+}
+.looser{
+    color: red;
+}
